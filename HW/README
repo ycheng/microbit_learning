@@ -1,0 +1,13 @@
+
+Schematic
+	https://github.com/microbit-foundation/microbit-reference-design/tree/master/PDF/Schematic%20Print
+
+HW Spec:
+	http://tech.microbit.org/hardware/
+	http://tech.microbit.org/hardware/schematic/
+
+	nRF51
+		https://www.nordicsemi.com/eng/Products/Bluetooth-low-energy/nRF51822
+	KL26
+		http://www.nxp.com/webapp/search.partparamdetail.framework?PART_NUMBER=MKL26Z128VFM4
+		48MHz Cortex-M0+ Ultra-Low Power MCU, 128KB Flash, 16KB SRAM, Full-Speed USB
