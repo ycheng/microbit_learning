@@ -1,0 +1,20 @@
+
+
+Chinese:
+
+http://www.books.com.tw/products/0010770392
+	book: 輕課程 micro:bit 微型電腦帶著走：使用Python輕鬆玩
+https://makecode.microbit.org/projects
+	Sample Projects
+http://elesson.tc.edu.tw/md221/mod/page/view.php?id=4122
+	第1182回-運算思維-micro:bit-我的小比特-3-用 taibit 玩燈標尋寶
+https://sites.google.com/site/wenyumaker2/02micro-bit-yan-jiu/01microbit-chu-ti-yan
+	01micro:bit初體驗
+
+
+
+English
+
+https://microbit-playground.co.uk/
+http://elesson.tc.edu.tw/md221/mod/page/view.php?id=4122
+https://onedrive.live.com/?authkey=%21AEWPObnLnAobvkw&cid=416406873CB120AB&id=416406873CB120AB%21141&parId=416406873CB120AB%21111&o=OneUp
